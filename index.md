@@ -1,3 +1,4 @@
+```markdown
 ###
 #Benjamin's first CS193 lab
 
@@ -8,7 +9,7 @@
 -very fun
 
 -github
-
+```
 ###
 ## Welcome to GitHub Pages
 
