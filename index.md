@@ -1,6 +1,7 @@
 ###
 #Benjamin's first CS193 lab
-[Link](github.com/heav10n)
+
+#[profile](github.com/heav10n)
 
 -cs193
 -very fun
