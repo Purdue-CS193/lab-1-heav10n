@@ -1,4 +1,3 @@
-[profile](https://github.com/heav10n)
 ```markdown
 #Benjamin's first CS193 lab
 
