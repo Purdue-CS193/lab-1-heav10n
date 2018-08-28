@@ -3,11 +3,11 @@
 
 [profile](https://github.com/heav10n)
 
--cs193
+- cs193
 
--very fun
+- very fun
 
--github
+- github
 ```
 ## Welcome to GitHub Pages
 
