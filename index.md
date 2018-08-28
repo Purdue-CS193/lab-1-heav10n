@@ -1,11 +1,14 @@
 ###
 #Benjamin's first CS193 lab
 
-#[profile](github.com/heav10n)
+[profile](github.com/heav10n)
 
 -cs193
+
 -very fun
+
 -github
+
 ###
 ## Welcome to GitHub Pages
 
